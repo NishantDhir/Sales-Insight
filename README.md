@@ -1,7 +1,7 @@
 # Sales-Insight
 SQL &amp; Power BI 
 <p align="center"
-   <img src="https://github.com/NishantDhir/AdventureWorks-Dataset-Dashboard_BusinessAnalysis/blob/main/Report.png" />
+   <img src="https://github.com/NishantDhir/Sales-Insight" />
 </p>
 
 # Sales Insigth
